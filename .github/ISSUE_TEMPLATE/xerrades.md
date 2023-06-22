@@ -16,6 +16,9 @@ La xerrada tractarà de...
 **Duració**
 Curta (<15min), mitjana (entre 15 i 30) o llarga (>30min).
 
+**Idioma**
+Català
+
 **Temes tractats**
 - TypeScript
 - Frontend frameworks
