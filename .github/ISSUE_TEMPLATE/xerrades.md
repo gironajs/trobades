@@ -25,7 +25,7 @@ Català
 - NextJS
 - Eines de testing
 
-**Speakers**
+**Presentadors**
 - Marc Gasol &rarr; [Twitter](https://twitter.com/MarcGasol)
 - Cristian Stuani &rarr; [Linkedin](https://www.linkedin.com/)
 
