@@ -18,7 +18,7 @@ Els passos necessaris són:
 
 Exemple:
 
-![image](https://github.com/gironajs/propostes/assets/25479585/dd39d8c5-14d5-4076-81e8-ad73c130b31c)
+![image](https://github.com/gironajs/trobades/assets/25479585/d0952e54-d26e-46b9-9c79-838e5e3f9c1e)
 
 Un cop s'ha creat la issue, pots veure-la en el projecte [Trobades GironaJS](https://github.com/orgs/gironajs/projects/2/). 
 En el cas de ser una proposta, mou-la a la columna **Propostes**.
